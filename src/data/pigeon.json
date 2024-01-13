@@ -1,0 +1,22 @@
+[
+    {
+        "id": "e55caad9-b067-440c-b9f5-8163138c079b",
+        "name": "HOHOHO",
+        "ring_no": "P01-2200112044",
+        "type": "COCK",
+        "chip_no": null,
+        "birth": null,
+        "achievement": null,
+        "father_id": null,
+        "mother_id": null,
+        "feather_colors_id": "2059fcdf-2f3d-474b-84d8-b81277dc0213",
+        "feather_color": "BLACK",
+        "father_ring_no": null,
+        "father_name": null,
+        "father_chip_no": null,
+        "mother_ring_no": null,
+        "mother_name": null,
+        "mother_chip_no": null,
+        "pigeon_status": "ALIVE"
+    }
+]

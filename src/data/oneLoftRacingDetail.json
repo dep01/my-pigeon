@@ -1,0 +1,23 @@
+{
+  "detail": {
+    "name": "Kandang Nasional Rajamandala",
+    "type": "One Loft Race (Race)",
+    "race_no": "05030503",
+    "race_name": "KNYBXXIII RACE(P1/200KM TEGAL)",
+    "date": "2023/5/3",
+    "liberation_time": "2023/5/3 07:00",
+    "cut_off": "2023/5/5 18:00",
+    "distance": "196Km"
+  },
+  "data": [
+    {
+      "rank": "1",
+      "country": "",
+      "loft": "Syaqila H.Ginanjar",
+      "ring": "ID22-102157",
+      "arrival": "2023/5/3 10:28:49.806",
+      "duration": "03:28:49.806",
+      "speed": "938.562"
+    }
+  ]
+}

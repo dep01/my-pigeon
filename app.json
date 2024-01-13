@@ -1,0 +1,7 @@
+{
+  "name": "my_pigeon",
+  "displayName": "My Pigeon",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-2606887697599114~6894274233"
+  }
+}
